@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ssh app@104.236.79.43 <<EOF
+ssh app@104.236.37.154 <<EOF
   cd ~/hello-there
   git pull
   npm install --production
